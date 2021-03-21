@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/superpay,/static/css/main.632833e7.chunk.css",
-    "main.js": "/superpay,/static/js/main.c926e32d.chunk.js",
-    "main.js.map": "/superpay,/static/js/main.c926e32d.chunk.js.map",
-    "runtime-main.js": "/superpay,/static/js/runtime-main.ea3d625a.js",
-    "runtime-main.js.map": "/superpay,/static/js/runtime-main.ea3d625a.js.map",
-    "static/js/2.f8cfd740.chunk.js": "/superpay,/static/js/2.f8cfd740.chunk.js",
-    "static/js/2.f8cfd740.chunk.js.map": "/superpay,/static/js/2.f8cfd740.chunk.js.map",
-    "static/js/3.0650d2cb.chunk.js": "/superpay,/static/js/3.0650d2cb.chunk.js",
-    "static/js/3.0650d2cb.chunk.js.map": "/superpay,/static/js/3.0650d2cb.chunk.js.map",
-    "index.html": "/superpay,/index.html",
-    "static/css/main.632833e7.chunk.css.map": "/superpay,/static/css/main.632833e7.chunk.css.map",
-    "static/js/2.f8cfd740.chunk.js.LICENSE.txt": "/superpay,/static/js/2.f8cfd740.chunk.js.LICENSE.txt"
+    "main.css": "/superpay/static/css/main.632833e7.chunk.css",
+    "main.js": "/superpay/static/js/main.c926e32d.chunk.js",
+    "main.js.map": "/superpay/static/js/main.c926e32d.chunk.js.map",
+    "runtime-main.js": "/superpay/static/js/runtime-main.92975d2c.js",
+    "runtime-main.js.map": "/superpay/static/js/runtime-main.92975d2c.js.map",
+    "static/js/2.f8cfd740.chunk.js": "/superpay/static/js/2.f8cfd740.chunk.js",
+    "static/js/2.f8cfd740.chunk.js.map": "/superpay/static/js/2.f8cfd740.chunk.js.map",
+    "static/js/3.0650d2cb.chunk.js": "/superpay/static/js/3.0650d2cb.chunk.js",
+    "static/js/3.0650d2cb.chunk.js.map": "/superpay/static/js/3.0650d2cb.chunk.js.map",
+    "index.html": "/superpay/index.html",
+    "static/css/main.632833e7.chunk.css.map": "/superpay/static/css/main.632833e7.chunk.css.map",
+    "static/js/2.f8cfd740.chunk.js.LICENSE.txt": "/superpay/static/js/2.f8cfd740.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ea3d625a.js",
+    "static/js/runtime-main.92975d2c.js",
     "static/js/2.f8cfd740.chunk.js",
     "static/css/main.632833e7.chunk.css",
     "static/js/main.c926e32d.chunk.js"
