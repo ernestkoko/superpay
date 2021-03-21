@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/superpay/static/css/main.5826611d.chunk.css",
-    "main.js": "/superpay/static/js/main.cdb6940d.chunk.js",
-    "main.js.map": "/superpay/static/js/main.cdb6940d.chunk.js.map",
+    "main.js": "/superpay/static/js/main.add2fc99.chunk.js",
+    "main.js.map": "/superpay/static/js/main.add2fc99.chunk.js.map",
     "runtime-main.js": "/superpay/static/js/runtime-main.520a35ac.js",
     "runtime-main.js.map": "/superpay/static/js/runtime-main.520a35ac.js.map",
     "static/js/2.4639452c.chunk.js": "/superpay/static/js/2.4639452c.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.520a35ac.js",
     "static/js/2.4639452c.chunk.js",
     "static/css/main.5826611d.chunk.css",
-    "static/js/main.cdb6940d.chunk.js"
+    "static/js/main.add2fc99.chunk.js"
   ]
 }
